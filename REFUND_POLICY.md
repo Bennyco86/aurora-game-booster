@@ -1,7 +1,6 @@
 # Aurora Game Booster Refund Policy
 
 Updated: 2026-07-29
-Status: Draft for owner/legal review before paid sales
 
 ## Microsoft Store purchases
 
