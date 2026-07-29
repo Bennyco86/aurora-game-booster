@@ -1,0 +1,114 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Aurora Game Booster is a transparent Windows 11 gaming setup, backup, verification, and optimization tool.">
+  <title>Aurora Game Booster</title>
+  <link rel="icon" href="assets/aurora-game-booster-256.png">
+  <link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+  <div class="aurora-field" aria-hidden="true"></div>
+  <header class="site-header">
+    <a class="brand" href="#top" aria-label="Aurora Game Booster home">
+      <img src="assets/aurora-game-booster-256.png" alt="" width="44" height="44">
+      <span>Aurora Game Booster</span>
+    </a>
+    <nav aria-label="Primary navigation">
+      <a href="#workflow">Workflow</a>
+      <a href="#features">Features</a>
+      <a href="#safety">Safety</a>
+      <a href="SUPPORT.md">Support</a>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero reveal">
+      <div class="hero-copy">
+        <p class="eyebrow">Designed by Benny Cohen</p>
+        <h1>Gaming optimization you can inspect, verify, and undo.</h1>
+        <p class="lede">Aurora prepares Windows 11 for gaming without hiding the details. Preview every supported change, create a backup, apply what you choose, and verify the result.</p>
+        <div class="hero-actions">
+          <a class="button button-disabled" href="#release-status" aria-disabled="true">Store release pending</a>
+          <a class="button button-secondary" href="docs/optimization-list.md">See every change</a>
+        </div>
+        <p class="microcopy"><strong>Planned Early Bird launch price: USD 9.99 one-time.</strong> No subscription.</p>
+        <p class="microcopy">No guaranteed FPS claims. No drive cleanup. No instruction to bypass Windows security.</p>
+      </div>
+
+      <aside class="status-console" id="release-status" aria-label="Current release status">
+        <div class="console-bar">
+          <span class="status-dot"></span>
+          <span>Microsoft Store preparation</span>
+          <span class="console-state">IN PROGRESS</span>
+        </div>
+        <dl>
+          <div><dt>Microsoft case</dt><dd>Completed</dd></div>
+          <div><dt>Current scan</dt><dd class="good">No malware detected</dd></div>
+          <div><dt>Portal determination</dt><dd class="pending">Pending</dd></div>
+          <div><dt>Store package</dt><dd>Prototype validated</dd></div>
+          <div><dt>Launch price</dt><dd>USD 9.99 planned</dd></div>
+          <div><dt>Public listing</dt><dd>Not published</dd></div>
+        </dl>
+        <a href="DEPLOYMENT_STATUS.md">Read deployment status</a>
+      </aside>
+    </section>
+
+    <section class="workflow reveal" id="workflow">
+      <div class="section-heading">
+        <p class="eyebrow">A controlled workflow</p>
+        <h2>Four steps, with evidence at every stage.</h2>
+      </div>
+      <ol class="steps">
+        <li><span>01</span><h3>Scan</h3><p>Read current Windows, GPU, RAM, and process state.</p></li>
+        <li><span>02</span><h3>Back up</h3><p>Capture supported settings before writing changes.</p></li>
+        <li><span>03</span><h3>Apply</h3><p>Apply selected missing optimizations, not a mystery preset.</p></li>
+        <li><span>04</span><h3>Verify</h3><p>Compare current values with targets and undo when supported.</p></li>
+      </ol>
+    </section>
+
+    <section class="feature-grid reveal" id="features">
+      <article class="feature feature-wide">
+        <p class="feature-label">Windows</p>
+        <h2>See the exact setting before Aurora changes it.</h2>
+        <p>Game Mode, capture settings, desktop effects, process priority, and supported user-level optimizations are separated into automatic, manual, and experimental actions. The planned Advanced Store candidate adds action-specific UAC for HAGS, Ultimate Performance, and supported NVIDIA automation.</p>
+      </article>
+      <article class="feature">
+        <p class="feature-label">NVIDIA</p>
+        <h3>Verified settings can be automated in Advanced; unsupported controls remain transparent and manual.</h3>
+      </article>
+      <article class="feature">
+        <p class="feature-label">AMD</p>
+        <h3>Adrenalin recommendations stay manual when driver interfaces are undocumented.</h3>
+      </article>
+      <article class="feature">
+        <p class="feature-label">Memory</p>
+        <h3>RAM tools explain the cache tradeoff instead of promising more physical RAM.</h3>
+      </article>
+    </section>
+
+    <section class="safety reveal" id="safety">
+      <div>
+        <p class="eyebrow">Trust is a feature</p>
+        <h2>Aurora will not ask you to turn protection off just to install it.</h2>
+      </div>
+      <div class="safety-list">
+        <p>Release checks require a versioned artifact and matching SHA-256.</p>
+        <p>The Store edition does not include controls that disable Windows security features.</p>
+        <p>Distribution will use the Microsoft-certified Store package, not an unsigned mirror.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Aurora Game Booster <span aria-hidden="true">/</span> Designed by Benny Cohen</p>
+    <div>
+      <a href="PRIVACY.md">Privacy</a>
+      <a href="TERMS.md">Terms</a>
+      <a href="SECURITY.md">Security</a>
+      <a href="mailto:nzbennycohen@gmail.com">Email support</a>
+    </div>
+  </footer>
+</body>
+</html>

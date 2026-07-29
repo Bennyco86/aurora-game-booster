@@ -1,0 +1,48 @@
+name: Bug report
+description: Report a reproducible Aurora problem without sharing sensitive data.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Do not attach passwords, license keys, full registry backups, or unrelated system logs. If Windows blocked the installer, do not disable security controls.
+  - type: input
+    id: version
+    attributes:
+      label: Aurora version
+      placeholder: 1.0.x
+    validations:
+      required: true
+  - type: input
+    id: windows
+    attributes:
+      label: Windows version and build
+    validations:
+      required: true
+  - type: input
+    id: hardware
+    attributes:
+      label: CPU, GPU, RAM, and GPU driver
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+      description: List the exact buttons/actions and whether Windows was restarted.
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: Expected and actual result
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant sanitized log lines
+      description: Include only the lines around the matching timestamp.
+

@@ -1,0 +1,33 @@
+name: Feature request
+description: Suggest a transparent and testable improvement.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem to solve
+      description: Explain the gaming/setup problem rather than only naming a tweak.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior
+      description: Explain what Aurora should preview, apply, verify, and undo.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence or official documentation
+      description: Link vendor or Microsoft documentation and describe test results.
+  - type: checkboxes
+    id: tradeoffs
+    attributes:
+      label: Tradeoffs considered
+      options:
+        - label: I have described security, compatibility, restart, visual-quality, or power tradeoffs where relevant.
+          required: true
+
