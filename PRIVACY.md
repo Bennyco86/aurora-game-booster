@@ -1,7 +1,6 @@
 # Aurora Game Booster Privacy Notice
 
 Updated: 2026-07-29
-Status: Draft for owner/legal review before Microsoft Store submission
 
 ## Summary
 
