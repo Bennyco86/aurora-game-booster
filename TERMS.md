@@ -1,7 +1,6 @@
 # Aurora Game Booster Terms of Use
 
 Updated: 2026-07-29
-Status: Draft for owner/legal review before public distribution
 
 ## Scope
 
