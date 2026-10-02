@@ -2,12 +2,12 @@
 
 Updated: 2026-07-29
 
-Email: `nzbennycohen@gmail.com`
+Contact support through [Aotearoa Labs](https://aotearoalabs.co.nz/).
 
 ## Blocked by Smart App Control
 
 Do not turn off Smart App Control to run Aurora. Delete or quarantine the downloaded
-installer and send the following information to the support email:
+installer and contact support through the official website with the following information:
 
 ```powershell
 Get-FileHash "$env:USERPROFILE\Downloads\AuroraGameBoosterSetup-1.0.17.exe" -Algorithm SHA256

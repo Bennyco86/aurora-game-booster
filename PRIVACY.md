@@ -45,7 +45,7 @@ personal information.
 Support information is used to answer the request, diagnose faults, improve Aurora,
 and keep reasonable business/support records. It is not sold. It may be processed
 by the email or issue-tracking provider used to receive the request. You may ask for
-access, correction, or deletion by contacting the address below, subject to legal
+access, correction, or deletion using the contact options below, subject to legal
 record-retention obligations.
 
 ## External pages
@@ -62,7 +62,7 @@ will be reflected by changing the updated date and publishing the current notice
 
 ## Contact
 
-Privacy and support questions: `nzbennycohen@gmail.com`
+Privacy and support questions: [Aotearoa Labs](https://aotearoalabs.co.nz/).
 
 Do not email passwords, license keys, payment-card details, complete registry
 backups, or unrelated system logs.

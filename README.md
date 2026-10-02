@@ -9,14 +9,10 @@ supported. It does not promise a guaranteed FPS increase.
 
 ## Release status
 
-The Microsoft Store release is being prepared and is not public yet. Do not download
-Aurora from mirrors or ask users to disable Windows security controls.
+Aurora Game Booster is available on the
+[Microsoft Store](https://apps.microsoft.com/detail/9N5KLCCP3G82).
 
-The planned Early Bird Store price is USD 9.99 as a one-time purchase, with no
-subscription. Pricing is not active until the Microsoft Store listing is certified
-and published.
-
-See [DEPLOYMENT_STATUS.md](DEPLOYMENT_STATUS.md) for the current release gate.
+Use the official Store listing for downloads, current pricing, and updates.
 
 ## What Aurora covers
 
@@ -39,14 +35,3 @@ See [DEPLOYMENT_STATUS.md](DEPLOYMENT_STATUS.md) for the current release gate.
 - [Support](SUPPORT.md)
 - [Security](SECURITY.md)
 - [Changelog](CHANGELOG.md)
-
-## Support
-
-Email `nzbennycohen@gmail.com`. Remove personal information from screenshots and
-logs before sending them. Never send passwords, license keys, complete registry
-backups, or unrelated system logs.
-
-This repository is intended for product documentation, policies, release notes, and
-issue tracking. The paid app will be distributed through Microsoft Store.
-Commercial application source, signing material, and licensing secrets are not
-published here.

@@ -10,7 +10,8 @@ by PC, Windows version, drivers, security configuration, and game.
 
 Do not disable Smart App Control or other Windows security features just to install
 Aurora. If Windows blocks the installer, stop and report the Aurora version, download
-source, SHA-256 checksum, and a screenshot to `nzbennycohen@gmail.com`.
+source, SHA-256 checksum, and a screenshot through
+[Aotearoa Labs](https://aotearoalabs.co.nz/).
 
 Aurora `1.0.17` remains on distribution hold after a beta tester received a Smart
 App Control malware warning. Microsoft completed submission

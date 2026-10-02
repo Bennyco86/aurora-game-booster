@@ -77,7 +77,7 @@ to the extent permitted by law.
 
 ## Contact
 
-Questions: `nzbennycohen@gmail.com`
+Questions: [Aotearoa Labs](https://aotearoalabs.co.nz/).
 
 ## Official Microsoft terms
 

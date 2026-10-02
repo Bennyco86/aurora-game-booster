@@ -2,7 +2,8 @@
 
 ## Report a security issue
 
-Email `nzbennycohen@gmail.com` with `Aurora security report` in the subject.
+Use the contact options on [Aotearoa Labs](https://aotearoalabs.co.nz/) to report
+a security issue privately. Identify the request as an Aurora security report.
 
 Include:
 

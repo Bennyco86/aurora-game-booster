@@ -56,5 +56,5 @@ GPU, driver branch, and Adrenalin version.
 
 ## Support
 
-Report issues to `nzbennycohen@gmail.com` with the Aurora version, Windows version,
+Report issues through [Aotearoa Labs](https://aotearoalabs.co.nz/) with the Aurora version, Windows version,
 GPU/driver, exact action, error text, and only the relevant sanitized log lines.

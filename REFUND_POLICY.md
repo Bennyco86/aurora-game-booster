@@ -17,7 +17,7 @@ If the online option is unavailable in your market, contact Microsoft Sales supp
 
 ## Product support
 
-For installation or product problems, email `nzbennycohen@gmail.com` with the Aurora
+For installation or product problems, contact [Aotearoa Labs](https://aotearoalabs.co.nz/) with the Aurora
 version, Windows version, and a short description. Do not send passwords, payment-
 card details, complete registry backups, or unrelated logs.
 
